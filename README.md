@@ -57,6 +57,6 @@
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=AN-Awesome&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=DokaDev&show_icons=true&theme=tokyonight)
  
 </div>
