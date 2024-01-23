@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-3DDC84?style=flat-square&logo=Linux&logoColor=000000&color=FCC624"/>&nbsp;
 <img src="https://img.shields.io/badge/Machintosh-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-3DDC84?style=flat-square&logo=mariadb&logoColor=FFFFFF&color=003545"/>&nbsp;
 
  ## Tools
