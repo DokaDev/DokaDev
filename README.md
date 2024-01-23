@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/BASH-3DDC84?style=flat-square&logo=GNU%20BASH&logoColor=FFFFFF&color=343434"/>&nbsp;
 <img src="https://img.shields.io/badge/C99-3DDC84?style=flat-square&logo=C&logoColor=FFFFFF&color=A8B9CC"/>&nbsp;
 <img src="https://img.shields.io/badge/MSVC-3DDC84?style=flat-square&logo=C&logoColor=FFFFFF&color=0B556A"/>&nbsp;
-<img src="https://img.shields.io/badge/C_Sharp-3DDC84?style=flat-square&logo=C%20Sharp&logoColor=FFFFFF&color=239120"/>&nbsp;
+<img src="https://img.shields.io/badge/C_Sharp-3DDC84?style=flat-square&logo=C%23&logoColor=FFFFFF&color=239120"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=OpenJDK&logoColor=FFFFFF&color=F80000"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
