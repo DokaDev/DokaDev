@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
 <img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
 
-
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/X86__64_Assembly-3DDC84?style=flat-square&logo=Intel&logoColor=FFFFFF&color=0071C5"/>&nbsp;
