@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-3DDC84?style=flat-square&logo=mariadb&logoColor=FFFFFF&color=003545"/>&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight)
 
  ## 🛠️Tools
 
@@ -60,8 +60,9 @@
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=DokaDev&show_icons=true&theme=dracula)
 
 
+
+![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
  
 </div>
