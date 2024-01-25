@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
