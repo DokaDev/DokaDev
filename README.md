@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://awslab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=flat-square&logo=Tistory&logoColor=WHITE&color=8D6748"/>
 
 * 👋 Hi, I’m Awesome
-* 👀 I’m interested in:
+* 👀 I’m interested in :
 
 <img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
 <img src="https://img.shields.io/badge/sleep();-3DDC84?style=for-the-badge&color=1A4CA1"/>&nbsp;
