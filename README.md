@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # ✨**AN AWESOME**✨
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://awslab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=flat-square&logo=Tistory&logoColor=WHITE&color=8D6748"/>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
 <img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
 
-## Tech Stack
+## 📱Tech Stack
 
 <img src="https://img.shields.io/badge/X86__64_Assembly-3DDC84?style=flat-square&logo=Intel&logoColor=FFFFFF&color=0071C5"/>&nbsp;
 <img src="https://img.shields.io/badge/GCC-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
@@ -39,12 +39,14 @@
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-3DDC84?style=flat-square&logo=mariadb&logoColor=FFFFFF&color=003545"/>&nbsp;
 
- ## Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev&layout=compact&theme=dracula)
+
+ ## 🛠️Tools
 
 <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio-3DDC84?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF&color=5C2D91"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-3DDC84?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF&color=007ACC"/>&nbsp;
-<img src="https://img.shields.io/badge/CodePen-3DDC84?style=flat-square&logo=CodePen&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/CodePen-3DDC84?style=flat-square&logo=CodePen&logoColor=aFFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-3DDC84?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF&color=2C2255"/>&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ-3DDC84?style=flat-square&logo=Intellij%20IDEA&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Xcode-3DDC84?style=flat-square&logo=Xcode&logoColor=FFFFFF&color=147EFB"/>&nbsp;
@@ -58,6 +60,8 @@
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=DokaDev&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=DokaDev&show_icons=true&theme=dracula)
+
+
  
 </div>
