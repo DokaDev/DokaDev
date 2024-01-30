@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/GCC-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/G++-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/BASH-3DDC84?style=flat-square&logo=GNU%20BASH&logoColor=FFFFFF&color=343434"/>&nbsp;
-<img src="https://img.shields.io/badge/MSVC-3DDC84?style=flat-square&logo=C&logoColor=FFFFFF&color=0B556A"/>&nbsp;
+<img src="https://img.shields.io/badge/MSVC-3DDC84?style=flat-square&logo=Cplusplus&logoColor=FFFFFF&color=0B556A"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=C%23&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=OpenJDK&logoColor=FFFFFF&color=F80000"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
