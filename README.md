@@ -3,7 +3,7 @@
 ## ✨**AN AWESOME**✨
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://dokadev.github.io" target="_blank"><img src="https://img.shields.io/badge/https://dokadev.github.io-3DDC84?label=BLOG&style=flat-square&logo=GitHubPages&logoColor=WHITE&color=222222"/>
 
-* 👋 Hi, I’m Awesome
+* 👋 Hi, I’m Awesome! I'v been as a system software engineer since 2018.
 * 👀 I’m interested in :
 
 <img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
