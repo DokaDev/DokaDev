@@ -36,12 +36,11 @@
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-3DDC84?style=flat-square&logo=Linux&logoColor=000000&color=FCC624"/>&nbsp;
 <img src="https://img.shields.io/badge/Machintosh-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-3DDC84?style=flat-square&logo=mariadb&logoColor=FFFFFF&color=003545"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
 <img src="https://img.shields.io/badge/UML-3DDC84?style=flat-square&logo=UML&logoColor=000000&color=FABD14"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
 
