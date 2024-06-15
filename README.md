@@ -7,7 +7,6 @@
 
 <img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="60"/>
 
-* 👋 Hi, I’m Awesome! I'v been as a system software engineer since 2018.
 * 👀 I’m interested in :
 
 <img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
