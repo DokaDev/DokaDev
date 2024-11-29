@@ -97,6 +97,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/After_Effects-3DDC84?style=flat-square&logo=Adobe%20After%20Effects&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
+<img src="https://img.shields.io/badge/Vim-3DDC84?style=flat-square&logo=Vim&logoColor=FFFFFF&color=019733"/>&nbsp;
+<img src="https://img.shields.io/badge/NeoVim-3DDC84?style=flat-square&logo=NeoVim&logoColor=FFFFFF&color=57A143"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
  
