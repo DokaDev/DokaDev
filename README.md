@@ -22,37 +22,54 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 * 📫 How to reach me : `Email`
 
 ## 📱Tech Stack
-
+### Languages
 <img src="https://img.shields.io/badge/X86__64_Assembly-3DDC84?style=flat-square&logo=Intel&logoColor=FFFFFF&color=0071C5"/>&nbsp;
 <img src="https://img.shields.io/badge/GCC-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/G++-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
-<img src="https://img.shields.io/badge/BASH-3DDC84?style=flat-square&logo=GNU%20BASH&logoColor=FFFFFF&color=343434"/>&nbsp;
-<img src="https://img.shields.io/badge/MSVC-3DDC84?style=flat-square&logo=Cplusplus&logoColor=FFFFFF&color=0B556A"/>&nbsp;
-<img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=C%23&logoColor=FFFFFF&color=239120"/>&nbsp;
+<img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=OpenJDK&logoColor=FFFFFF&color=F80000"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
-<img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
-<img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS-3DDC84?style=flat-square&logo=CSS3&color=1572B6"/>&nbsp;
-<img src="https://img.shields.io/badge/npm-3DDC84?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB3837"/>&nbsp;
-<img src="https://img.shields.io/badge/PHP-3DDC84?style=flat-square&logo=PHP&logoColor=FFFFFF&color=777BB4"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3DDC84?style=flat-square&logo=TypeScript&logoColor=FFFFFF&color=3178C6"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS3&color=1572B6"/>&nbsp;
+<img src="https://img.shields.io/badge/Lua-3DDC84?style=flat-square&logo=Lua&color=2C2D72"/>&nbsp;
+
+### Lib / Frameworks
+<img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
-<img src="https://img.shields.io/badge/Linux-3DDC84?style=flat-square&logo=Linux&logoColor=000000&color=FCC624"/>&nbsp;
-<img src="https://img.shields.io/badge/Machintosh-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-3DDC84?style=flat-square&logo=mariadb&logoColor=FFFFFF&color=003545"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
-<img src="https://img.shields.io/badge/UML-3DDC84?style=flat-square&logo=UML&logoColor=000000&color=FABD14"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-3DDC84?style=flat-square&logo=LangChain&logoColor=FFFFFF&color=1C3C3C"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
+<img src="https://img.shields.io/badge/.NET-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
+
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring_Data_JPA-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring_Data_ElasticSearch-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring_Data_Redis-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+
+
+
+
+
+
+### Database
+<img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
+<img src="https://img.shields.io/badge/SQLite-3DDC84?style=flat-square&logo=SQLite&logoColor=FFFFFF&color=003B57"/>&nbsp;
+
+### Operating System
+<img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Fedora-3DDC84?style=flat-square&logo=Fedora&logoColor=FFFFFF&color=51A2DA"/>&nbsp;
+<img src="https://img.shields.io/badge/CentOS-3DDC84?style=flat-square&logo=CentOS&logoColor=FFFFFF&color=262577"/>&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-3DDC84?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&color=E95420"/>&nbsp;
+<img src="https://img.shields.io/badge/Debian-3DDC84?style=flat-square&logo=Debian&logoColor=FFFFFF&color=A81D33"/>&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-3DDC84?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&color=557C94"/>&nbsp;
+<img src="https://img.shields.io/badge/Arch_Linux-3DDC84?style=flat-square&logo=Arch%20Linux&logoColor=FFFFFF&color=1793D1"/>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight)
 
- ## 🛠️Tools
+## 🛠️Tools
 
 <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=Git&logoColor=FFFFFF&color=F05032"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
