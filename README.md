@@ -1,19 +1,22 @@
 <div align="left">
 
-
-## ✨**AN AWESOME**✨
+# ✨DOKADEV✨
 
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://dokadev.github.io" target="_blank"><img src="https://img.shields.io/badge/https://dokadev.github.io-3DDC84?label=BLOG&style=flat-square&logo=GitHubPages&logoColor=WHITE&color=222222"/>
 
-<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="60"/>
-
-* 👀 I’m interested in :
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time!+%F0%9F%92%BB;%F0%9F%94%A7+Turning+Ideas+into+Reality+with+Code+%E2%9C%8D%F0%9F%8F%BB;%F0%9F%A5%83+Developer+by+Day%2C+Whiskey+Lover+by+Night+%F0%9F%8C%99;%F0%9F%96%A5%EF%B8%8F+Beyond+Frameworks%3A+Mastering+the+Core+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
 <img src="https://img.shields.io/badge/sleep();-3DDC84?style=for-the-badge&color=1A4CA1"/>&nbsp;
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
 <img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
 
+I'm a **Software Engineer** who explores the core essence of technology.
+
+From system-level intricacies to cutting-edge frameworks,<br>
+I strive to innovate, create, and deeply understand the technologies shaping our world.
+
+* 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
 * 💞️ I’m looking to collaborate on `whatever` 😊
 * 📫 How to reach me : `Email`
