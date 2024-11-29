@@ -1,6 +1,6 @@
 <div align="left">
 
-# ✨DOKADEV✨
+# ✨DOKADEV✨ 
 
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://dokadev.github.io" target="_blank"><img src="https://img.shields.io/badge/https://dokadev.github.io-3DDC84?label=BLOG&style=flat-square&logo=GitHubPages&logoColor=WHITE&color=222222"/>
 
@@ -9,11 +9,9 @@
 <img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
 <img src="https://img.shields.io/badge/sleep();-3DDC84?style=for-the-badge&color=1A4CA1"/>&nbsp;
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
-<img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
+<img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="30"/>
 
-<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="60"/>
-
-I'm a **Software Engineer** who explores the core essence of technology.
+I'm a **Software Engineer** who explores the core essence of technology. 
 
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
