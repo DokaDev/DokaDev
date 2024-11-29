@@ -11,12 +11,12 @@
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
 <img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
 
+<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="60"/>
+
 I'm a **Software Engineer** who explores the core essence of technology.
 
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
-
-<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="60"/>
 
 * 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
