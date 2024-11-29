@@ -99,6 +99,9 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
 <img src="https://img.shields.io/badge/Vim-3DDC84?style=flat-square&logo=Vim&logoColor=FFFFFF&color=019733"/>&nbsp;
 <img src="https://img.shields.io/badge/NeoVim-3DDC84?style=flat-square&logo=NeoVim&logoColor=FFFFFF&color=57A143"/>&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-3DDC84?style=flat-square&logo=openai&logoColor=FFFFFF&color=412991"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Copilot-3DDC84?style=flat-square&logo=GitHub%20Copilot&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Gemini-3DDC84?style=flat-square&logo=Google%20Gemini&logoColor=FFFFFF&color=8E75B2"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
  
