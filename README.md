@@ -104,5 +104,13 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Gemini-3DDC84?style=flat-square&logo=Google%20Gemini&logoColor=FFFFFF&color=8E75B2"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
- 
+
+## 🛟 Specs
+<img src="https://img.shields.io/badge/OPIC_IH-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=40AEF0"/>&nbsp;
+<img src="https://img.shields.io/badge/Certified_Engineer_in_Information_Processing(CEIP)-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=3B66BC"/>&nbsp;
+<img src="https://img.shields.io/badge/Certified_Engineer_in_Information_Security(CEIS)[Only_Written_Exam]-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=3B66BC"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle_Certified_Professional(OCP)-3DDC84?style=flat-square&logo=Oracle&logoColor=FFFFFF&color=F80000"/>&nbsp;
+<img src="https://img.shields.io/badge/2015_STEAM_R&E_Award_by_the_Minister_of_Education-3DDC84?style=flat-square&logo=Archive%20of%20Out%20Own&logoColor=FFFFFF&color=990000"/>&nbsp;
+
+\* For detailed career information, please refer to the attached resume :)
 </div>
