@@ -37,12 +37,16 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
+<img src="https://img.shields.io/badge/Tensorflow-3DDC84?style=flat-square&logo=Tensorflow&logoColor=FFFFFF&color=FF6F00"/>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-3DDC84?style=flat-square&logo=PyTorch&logoColor=FFFFFF&color=EE4C2C"/>&nbsp;
+<img src="https://img.shields.io/badge/Ultralytics-3DDC84?style=flat-square&logo=Ultralytics&logoColor=FFFFFF&color=221E68"/>&nbsp;
+<img src="https://img.shields.io/badge/Selenium-3DDC84?style=flat-square&logo=Selenium&logoColor=FFFFFF&color=43B02A"/>&nbsp;
 <img src="https://img.shields.io/badge/LangChain-3DDC84?style=flat-square&logo=LangChain&logoColor=FFFFFF&color=1C3C3C"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
 <img src="https://img.shields.io/badge/.NET-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
-<img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
 <img src="https://img.shields.io/badge/MyBatis-3DDC84?style=flat-square&logo=MyBatis&logoColor=FFFFFF&color=D7192D"/>&nbsp;
 <img src="https://img.shields.io/badge/GSON-3DDC84?style=flat-square&logo=Json&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-3DDC84?style=flat-square&logo=Express&logoColor=FFFFFF&color=000000"/>&nbsp;
