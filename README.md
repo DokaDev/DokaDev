@@ -90,6 +90,10 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=Git&logoColor=FFFFFF&color=F05032"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/GitKraken-3DDC84?style=flat-square&logo=GitKraken&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Anaconda-3DDC84?style=flat-square&logo=Anaconda&logoColor=FFFFFF&color=44A833"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-3DDC84?style=flat-square&logo=Jupyter&logoColor=FFFFFF&color=F37626"/>&nbsp;
+<img src="https://img.shields.io/badge/Google_Colab-3DDC84?style=flat-square&logo=Google%20Colab&logoColor=FFFFFF&color=F9AB00"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio-3DDC84?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF&color=5C2D91"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-3DDC84?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF&color=007ACC"/>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-3DDC84?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF&color=2C2255"/>&nbsp;
@@ -110,6 +114,9 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Gemini-3DDC84?style=flat-square&logo=Google%20Gemini&logoColor=FFFFFF&color=8E75B2"/>&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-3DDC84?style=flat-square&logo=Wireshark&logoColor=FFFFFF&color=1679A7"/>&nbsp;
 <img src="https://img.shields.io/badge/Trello-3DDC84?style=flat-square&logo=Trello&logoColor=FFFFFF&color=0052CC"/>&nbsp;
+<img src="https://img.shields.io/badge/Homebrew-3DDC84?style=flat-square&logo=Homebrew&logoColor=000000&color=FBB040"/>&nbsp;
+<img src="https://img.shields.io/badge/FileZilla-3DDC84?style=flat-square&logo=FileZilla&logoColor=FFFFFF&color=BF0000"/>&nbsp;
+<img src="https://img.shields.io/badge/Obsidian-3DDC84?style=flat-square&logo=Obsidian&logoColor=FFFFFF&color=7C3AED"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
 
