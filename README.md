@@ -45,6 +45,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/LangChain-3DDC84?style=flat-square&logo=LangChain&logoColor=FFFFFF&color=1C3C3C"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
+<img src="https://img.shields.io/badge/ROS-3DDC84?style=flat-square&logo=ROS&logoColor=FFFFFF&color=22314E"/>&nbsp;
 <img src="https://img.shields.io/badge/.NET-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/MyBatis-3DDC84?style=flat-square&logo=MyBatis&logoColor=FFFFFF&color=D7192D"/>&nbsp;
@@ -72,6 +73,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Jenkins-3DDC84?style=flat-square&logo=Jenkins&logoColor=FFFFFF&color=D24939"/>&nbsp;
 <img src="https://img.shields.io/badge/LogStash-3DDC84?style=flat-square&logo=Logstash&logoColor=FFFFFF&color=005571"/>&nbsp;
 <img src="https://img.shields.io/badge/Kibana-3DDC84?style=flat-square&logo=Kibana&logoColor=FFFFFF&color=005571"/>&nbsp;
+<img src="https://img.shields.io/badge/MinIO-3DDC84?style=flat-square&logo=MinIO&logoColor=FFFFFF&color=C72E49"/>&nbsp;
 
 ### 🖱️ Operating System
 <img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
@@ -106,6 +108,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/ChatGPT-3DDC84?style=flat-square&logo=openai&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Copilot-3DDC84?style=flat-square&logo=GitHub%20Copilot&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Gemini-3DDC84?style=flat-square&logo=Google%20Gemini&logoColor=FFFFFF&color=8E75B2"/>&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-3DDC84?style=flat-square&logo=Wireshark&logoColor=FFFFFF&color=1679A7"/>&nbsp;
+<img src="https://img.shields.io/badge/Trello-3DDC84?style=flat-square&logo=Trello&logoColor=FFFFFF&color=0052CC"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
 
