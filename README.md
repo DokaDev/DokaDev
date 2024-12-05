@@ -90,7 +90,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=Git&logoColor=FFFFFF&color=F05032"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/GitKraken-3DDC84?style=flat-square&logo=GitKraken&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/GitKraken-3DDC84?style=flat-square&logo=GitKraken&logoColor=FFFFFF&color=179287"/>&nbsp;
 <img src="https://img.shields.io/badge/Anaconda-3DDC84?style=flat-square&logo=Anaconda&logoColor=FFFFFF&color=44A833"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-3DDC84?style=flat-square&logo=Jupyter&logoColor=FFFFFF&color=F37626"/>&nbsp;
 <img src="https://img.shields.io/badge/Google_Colab-3DDC84?style=flat-square&logo=Google%20Colab&logoColor=FFFFFF&color=F9AB00"/>&nbsp;
