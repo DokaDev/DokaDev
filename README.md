@@ -69,6 +69,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Redis-3DDC84?style=flat-square&logo=Redis&logoColor=FFFFFF&color=FF4438"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-3DDC84?style=flat-square&logo=NGINX&logoColor=FFFFFF&color=009639"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-3DDC84?style=flat-square&logo=Docker&logoColor=FFFFFF&color=2496ED"/>&nbsp;
+<img src="https://img.shields.io/badge/Podman-3DDC84?style=flat-square&logo=Podman&logoColor=FFFFFF&color=892CA0"/>&nbsp;
 <img src="https://img.shields.io/badge/K8S-3DDC84?style=flat-square&logo=Kubernetes&logoColor=FFFFFF&color=326CE5"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-3DDC84?style=flat-square&logo=Jenkins&logoColor=FFFFFF&color=D24939"/>&nbsp;
 <img src="https://img.shields.io/badge/LogStash-3DDC84?style=flat-square&logo=Logstash&logoColor=FFFFFF&color=005571"/>&nbsp;
@@ -77,10 +78,14 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 ### 🖱️ Operating System
 <img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/FreeBSD-3DDC84?style=flat-square&logo=FreeBSD&logoColor=FFFFFF&color=AB2B28"/>&nbsp;
+<img src="https://img.shields.io/badge/openSUSE-3DDC84?style=flat-square&logo=openSUSE&logoColor=FFFFFF&color=73BA25"/>&nbsp;
+<img src="https://img.shields.io/badge/Rocky_Linux-3DDC84?style=flat-square&logo=Rocky%20Linux&logoColor=FFFFFF&color=10B981"/>&nbsp;
 <img src="https://img.shields.io/badge/Fedora-3DDC84?style=flat-square&logo=Fedora&logoColor=FFFFFF&color=51A2DA"/>&nbsp;
 <img src="https://img.shields.io/badge/CentOS-3DDC84?style=flat-square&logo=CentOS&logoColor=FFFFFF&color=262577"/>&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-3DDC84?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&color=E95420"/>&nbsp;
 <img src="https://img.shields.io/badge/Debian-3DDC84?style=flat-square&logo=Debian&logoColor=FFFFFF&color=A81D33"/>&nbsp;
+<img src="https://img.shields.io/badge/Linux_Mint-3DDC84?style=flat-square&logo=Linux%20Mint&logoColor=FFFFFF&color=86BE43"/>&nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-3DDC84?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&color=557C94"/>&nbsp;
 <img src="https://img.shields.io/badge/Arch_Linux-3DDC84?style=flat-square&logo=Arch%20Linux&logoColor=FFFFFF&color=1793D1"/>&nbsp;
 
