@@ -68,6 +68,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ### 🎒 Middlewares / DevOps
 <img src="https://img.shields.io/badge/Redis-3DDC84?style=flat-square&logo=Redis&logoColor=FFFFFF&color=FF4438"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-3DDC84?style=flat-square&logo=NGINX&logoColor=FFFFFF&color=009639"/>&nbsp;
+<img src="https://img.shields.io/badge/Nginx_Proxy_Manager-3DDC84?style=flat-square&logo=Nginx%20Proxy%20Manager&logoColor=FFFFFF&color=F15833"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-3DDC84?style=flat-square&logo=Docker&logoColor=FFFFFF&color=2496ED"/>&nbsp;
 <img src="https://img.shields.io/badge/Podman-3DDC84?style=flat-square&logo=Podman&logoColor=FFFFFF&color=892CA0"/>&nbsp;
 <img src="https://img.shields.io/badge/K8S-3DDC84?style=flat-square&logo=Kubernetes&logoColor=FFFFFF&color=326CE5"/>&nbsp;
@@ -122,6 +123,11 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Homebrew-3DDC84?style=flat-square&logo=Homebrew&logoColor=000000&color=FBB040"/>&nbsp;
 <img src="https://img.shields.io/badge/FileZilla-3DDC84?style=flat-square&logo=FileZilla&logoColor=FFFFFF&color=BF0000"/>&nbsp;
 <img src="https://img.shields.io/badge/Obsidian-3DDC84?style=flat-square&logo=Obsidian&logoColor=FFFFFF&color=7C3AED"/>&nbsp;
+
+## ☁️ Cloud
+<img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
+<img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
 
