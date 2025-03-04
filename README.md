@@ -27,7 +27,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/GCC-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/G++-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=OpenJDK&logoColor=FFFFFF&color=F80000"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Eclipse%20Adoptium&logoColor=FFFFFF&color=FF1464"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS3&color=1572B6"/>&nbsp;
