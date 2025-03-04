@@ -72,6 +72,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Docker-3DDC84?style=flat-square&logo=Docker&logoColor=FFFFFF&color=2496ED"/>&nbsp;
 <img src="https://img.shields.io/badge/Podman-3DDC84?style=flat-square&logo=Podman&logoColor=FFFFFF&color=892CA0"/>&nbsp;
 <img src="https://img.shields.io/badge/K8S-3DDC84?style=flat-square&logo=Kubernetes&logoColor=FFFFFF&color=326CE5"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache_Kafka-3DDC84?style=flat-square&logo=Apache%20Kafka&logoColor=FFFFFF&color=231F20"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-3DDC84?style=flat-square&logo=Jenkins&logoColor=FFFFFF&color=D24939"/>&nbsp;
 <img src="https://img.shields.io/badge/LogStash-3DDC84?style=flat-square&logo=Logstash&logoColor=FFFFFF&color=005571"/>&nbsp;
 <img src="https://img.shields.io/badge/Kibana-3DDC84?style=flat-square&logo=Kibana&logoColor=FFFFFF&color=005571"/>&nbsp;
