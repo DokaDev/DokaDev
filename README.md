@@ -23,6 +23,13 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 * 💞️ I’m looking to collaborate on `whatever` 😊
 * 📫 How to reach me : `Email`
 
+## 🧪Career Summary
+- Bachelor’s Degree in `📀 Multimedia Engineering` 
+  - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
+- ~~Employeed~~ Worked as a Vision Software Engineer
+- Working as a System Software Engineer and Web Developer
+- Contributing to [Dracula Theme](https://draculatheme.com/) projects and Maintainer of [Google Search Theme](https://draculatheme.com/google-search)
+
 ## 📱Tech Stack
 ### 🛠️ Languages
 <img src="https://img.shields.io/badge/X86__64_Assembly-3DDC84?style=flat-square&logo=Intel&logoColor=FFFFFF&color=0071C5"/>&nbsp;
