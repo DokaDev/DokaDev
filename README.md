@@ -91,6 +91,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Linux_Mint-3DDC84?style=flat-square&logo=Linux%20Mint&logoColor=FFFFFF&color=86BE43"/>&nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-3DDC84?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&color=557C94"/>&nbsp;
 <img src="https://img.shields.io/badge/Arch_Linux-3DDC84?style=flat-square&logo=Arch%20Linux&logoColor=FFFFFF&color=1793D1"/>&nbsp;
+<img src="https://img.shields.io/badge/Alpine_Linux-3DDC84?style=flat-square&logo=Alpine%20Linux&logoColor=FFFFFF&color=0D597F"/>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight)
 
