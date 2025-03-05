@@ -45,6 +45,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ### 📦 Lib / Frameworks
 <img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
 <img src="https://img.shields.io/badge/Tensorflow-3DDC84?style=flat-square&logo=Tensorflow&logoColor=FFFFFF&color=FF6F00"/>&nbsp;
