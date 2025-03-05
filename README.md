@@ -91,6 +91,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/MinIO-3DDC84?style=flat-square&logo=MinIO&logoColor=FFFFFF&color=C72E49"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-3DDC84?style=flat-square&logo=GitHub%20Actions&logoColor=FFFFFF&color=2088FF"/>&nbsp;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight&langs_count=20)
+
 ### 🖱️ Operating System
 <img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/FreeBSD-3DDC84?style=flat-square&logo=FreeBSD&logoColor=FFFFFF&color=AB2B28"/>&nbsp;
@@ -104,8 +106,6 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Kali_Linux-3DDC84?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&color=557C94"/>&nbsp;
 <img src="https://img.shields.io/badge/Arch_Linux-3DDC84?style=flat-square&logo=Arch%20Linux&logoColor=FFFFFF&color=1793D1"/>&nbsp;
 <img src="https://img.shields.io/badge/Alpine_Linux-3DDC84?style=flat-square&logo=Alpine%20Linux&logoColor=FFFFFF&color=0D597F"/>&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight)
 
 ## 🛠️Tools
 
@@ -145,7 +145,15 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
-![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight)
+<details>
+  <summary><b>📊 GitHub Statistics</b></summary>
+  <br/>
+  
+![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
+
+</details>
+
+
 
 ## 🛟 Specs
 <img src="https://img.shields.io/badge/OPIC_IH-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=40AEF0"/>&nbsp;
