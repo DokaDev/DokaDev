@@ -67,6 +67,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Spring_Data_JPA-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Data_ElasticSearch-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Data_Redis-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+<img src="https://img.shields.io/badge/JUnit-3DDC84?style=flat-square&logo=JUnit5&logoColor=FFFFFF&color=25A162"/>&nbsp;
+<img src="https://img.shields.io/badge/Pytest-3DDC84?style=flat-square&logo=Pytest&logoColor=FFFFFF&color=0A9EDC"/>&nbsp;
 
 ### 📚 Database
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
@@ -87,6 +89,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/LogStash-3DDC84?style=flat-square&logo=Logstash&logoColor=FFFFFF&color=005571"/>&nbsp;
 <img src="https://img.shields.io/badge/Kibana-3DDC84?style=flat-square&logo=Kibana&logoColor=FFFFFF&color=005571"/>&nbsp;
 <img src="https://img.shields.io/badge/MinIO-3DDC84?style=flat-square&logo=MinIO&logoColor=FFFFFF&color=C72E49"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-3DDC84?style=flat-square&logo=GitHub%20Actions&logoColor=FFFFFF&color=2088FF"/>&nbsp;
 
 ### 🖱️ Operating System
 <img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
@@ -117,7 +120,6 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Eclipse-3DDC84?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF&color=2C2255"/>&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ-3DDC84?style=flat-square&logo=Intellij%20IDEA&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/ReSharper-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-3DDC84?style=flat-square&logo=Jupyter&logoColor=FFFFFF&color=F37626"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-3DDC84?style=flat-square&logo=Slack&color=4A154B"/>&nbsp;
 <img src="https://img.shields.io/badge/Quip-3DDC84?style=flat-square&logo=Quip&logoColor=FFFFFF&color=F27557"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&color=000000"/>&nbsp;
@@ -135,6 +137,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Homebrew-3DDC84?style=flat-square&logo=Homebrew&logoColor=000000&color=FBB040"/>&nbsp;
 <img src="https://img.shields.io/badge/FileZilla-3DDC84?style=flat-square&logo=FileZilla&logoColor=FFFFFF&color=BF0000"/>&nbsp;
 <img src="https://img.shields.io/badge/Obsidian-3DDC84?style=flat-square&logo=Obsidian&logoColor=FFFFFF&color=7C3AED"/>&nbsp;
+<img src="https://img.shields.io/badge/Arduino-3DDC84?style=flat-square&logo=Arduino&logoColor=FFFFFF&color=00878F"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=Figma&logoColor=FFFFFF&color=F24E1E"/>&nbsp;
 
 ## ☁️ Cloud
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
