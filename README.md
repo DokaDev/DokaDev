@@ -18,6 +18,8 @@ I'm a **Software Engineer** who explores the core essence of technology. <img sr
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 * 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
 * 💞️ I’m looking to collaborate on `whatever` 😊
@@ -30,13 +32,13 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 - Working as a System Software Engineer and Web Developer
 - Contributing to [Dracula Theme](https://draculatheme.com/) projects and Maintainer of [Google Search Theme](https://draculatheme.com/google-search)
 
-<div align="left">
+<!-- <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> -->
 
 ## 📱Tech Stack
 ### 🛠️ Languages
