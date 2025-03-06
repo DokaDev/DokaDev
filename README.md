@@ -140,6 +140,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Obsidian-3DDC84?style=flat-square&logo=Obsidian&logoColor=FFFFFF&color=7C3AED"/>&nbsp;
 <img src="https://img.shields.io/badge/Arduino-3DDC84?style=flat-square&logo=Arduino&logoColor=FFFFFF&color=00878F"/>&nbsp;
 <img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=Figma&logoColor=FFFFFF&color=F24E1E"/>&nbsp;
+<img src="https://img.shields.io/badge/Coveralls-3DDC84?style=flat-square&logo=Coveralls&logoColor=FFFFFF&color=3F5767"/>&nbsp;
 
 ## ☁️ Cloud
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
