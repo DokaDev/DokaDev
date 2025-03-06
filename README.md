@@ -148,13 +148,13 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
-<details>
+<!-- <details>
   <summary><b>📊 GitHub Statistics</b></summary>
-  <br/>
+  <br/> -->
   
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
 
-</details>
+<!-- </details> -->
 
 
 
