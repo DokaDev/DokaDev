@@ -18,7 +18,7 @@ I'm a **Software Engineer** who explores the core essence of technology. <img sr
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70'>
 
 * 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
