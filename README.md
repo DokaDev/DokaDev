@@ -30,6 +30,14 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 - Working as a System Software Engineer and Web Developer
 - Contributing to [Dracula Theme](https://draculatheme.com/) projects and Maintainer of [Google Search Theme](https://draculatheme.com/google-search)
 
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 📱Tech Stack
 ### 🛠️ Languages
 <img src="https://img.shields.io/badge/X86__64_Assembly-3DDC84?style=flat-square&logo=Intel&logoColor=FFFFFF&color=0071C5"/>&nbsp;
@@ -155,14 +163,6 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
 
 <!-- </details> -->
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ## 🛟 Specs
 <img src="https://img.shields.io/badge/OPIC_IH-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=40AEF0"/>&nbsp;
