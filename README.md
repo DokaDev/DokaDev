@@ -68,6 +68,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Spring_Data_JPA-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Data_ElasticSearch-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Data_Redis-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+<img src="https://img.shields.io/badge/Vitest-3DDC84?style=flat-square&logo=Vitest&logoColor=FFFFFF&color=6E9F18"/>&nbsp;
 <img src="https://img.shields.io/badge/JUnit-3DDC84?style=flat-square&logo=JUnit5&logoColor=FFFFFF&color=25A162"/>&nbsp;
 <img src="https://img.shields.io/badge/Pytest-3DDC84?style=flat-square&logo=Pytest&logoColor=FFFFFF&color=0A9EDC"/>&nbsp;
 
