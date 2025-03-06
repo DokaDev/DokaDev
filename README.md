@@ -166,4 +166,13 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/2015_STEAM_R&E_Award_by_the_Minister_of_Education-3DDC84?style=flat-square&logo=Archive%20of%20Out%20Own&logoColor=FFFFFF&color=990000"/>&nbsp;
 
 \* For detailed career information, please refer to the attached resume :)
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 </div>
