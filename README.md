@@ -18,14 +18,15 @@ I'm a **Software Engineer** who explores the core essence of technology. <img sr
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
-
 * 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
 * 💞️ I’m looking to collaborate on `whatever` 😊
 * 📫 How to reach me : `Email`
 
 ## 🧪Career Summary
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+
 - Bachelor’s Degree in `📀 Multimedia Engineering` 
   - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
 - ~~Employeed~~ Worked as a Vision Software Engineer
