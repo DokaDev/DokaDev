@@ -56,6 +56,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ### 📦 Lib / Frameworks
 <img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-3DDC84?style=flat-square&logo=Next.js&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
@@ -71,7 +72,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/MyBatis-3DDC84?style=flat-square&logo=MyBatis&logoColor=FFFFFF&color=D7192D"/>&nbsp;
 <img src="https://img.shields.io/badge/GSON-3DDC84?style=flat-square&logo=Json&logoColor=FFFFFF&color=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/Express-3DDC84?style=flat-square&logo=Express&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-3DDC84?style=flat-square&logo=Express&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/NestJS-3DDC84?style=flat-square&logo=NestJS&logoColor=FFFFFF&color=E0234E"/>&nbsp;
 <img src="https://img.shields.io/badge/Discord.js-3DDC84?style=flat-square&logo=Discord&logoColor=FFFFFF&color=5865F2"/>&nbsp;
 <img src="https://img.shields.io/badge/Nodemon-3DDC84?style=flat-square&logo=Nodemon&logoColor=FFFFFF&color=76D04B"/>&nbsp;
 <img src="https://img.shields.io/badge/Vite-3DDC84?style=flat-square&logo=Vite&logoColor=FFFFFF&color=646CFF"/>&nbsp;
@@ -86,11 +88,14 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ### 📚 Database
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache_CouchDB-3DDC84?style=flat-square&logo=Apache%20CouchDB&logoColor=FFFFFF&color=E42528"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-3DDC84?style=flat-square&logo=Redis&logoColor=FFFFFF&color=FF4438"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon_DynamoDB-3DDC84?style=flat-square&logo=Amazon%20DynamoDB&logoColor=FFFFFF&color=4053D6"/>&nbsp;
 <img src="https://img.shields.io/badge/SQLite-3DDC84?style=flat-square&logo=SQLite&logoColor=FFFFFF&color=003B57"/>&nbsp;
 <img src="https://img.shields.io/badge/ElasticSearch-3DDC84?style=flat-square&logo=ElasticSearch&logoColor=FFFFFF&color=005571"/>&nbsp;
 
+
 ### 🎒 Middlewares / DevOps
-<img src="https://img.shields.io/badge/Redis-3DDC84?style=flat-square&logo=Redis&logoColor=FFFFFF&color=FF4438"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-3DDC84?style=flat-square&logo=NGINX&logoColor=FFFFFF&color=009639"/>&nbsp;
 <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-3DDC84?style=flat-square&logo=Nginx%20Proxy%20Manager&logoColor=FFFFFF&color=F15833"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-3DDC84?style=flat-square&logo=Docker&logoColor=FFFFFF&color=2496ED"/>&nbsp;
