@@ -96,6 +96,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 
 ### 🎒 Middlewares / DevOps
+<img src="https://img.shields.io/badge/Apache_Tomcat-3DDC84?style=flat-square&logo=Apache%20Tomcat&logoColor=FFFFFF&color=F8DC75"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-3DDC84?style=flat-square&logo=NGINX&logoColor=FFFFFF&color=009639"/>&nbsp;
 <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-3DDC84?style=flat-square&logo=Nginx%20Proxy%20Manager&logoColor=FFFFFF&color=F15833"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-3DDC84?style=flat-square&logo=Docker&logoColor=FFFFFF&color=2496ED"/>&nbsp;
