@@ -61,6 +61,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-3DDC84?style=flat-square&logo=Next.js&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-3DDC84?style=flat-square&logo=Redux&logoColor=FFFFFF&color=764ABC"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
 <img src="https://img.shields.io/badge/Tensorflow-3DDC84?style=flat-square&logo=Tensorflow&logoColor=FFFFFF&color=FF6F00"/>&nbsp;
