@@ -29,7 +29,6 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 - Bachelor’s Degree in `📀 Multimedia Engineering` 
   - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
-- ~~Employeed~~ Worked as a Vision Software Engineer
 - Working as a System Software Engineer and Web Developer
 - Contributing to [Dracula Theme](https://draculatheme.com/) projects and Maintainer of [Google Search Theme](https://draculatheme.com/google-search)
 
@@ -179,14 +178,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
   
 ![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
 
-<!-- </details> -->
-
-## 🛟 Specs
-<img src="https://img.shields.io/badge/OPIC_IH-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=40AEF0"/>&nbsp;
-<img src="https://img.shields.io/badge/Certified_Engineer_in_Information_Processing(CEIP)-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=3B66BC"/>&nbsp;
-<img src="https://img.shields.io/badge/Certified_Engineer_in_Information_Security(CEIS)[Only_Written_Exam]-3DDC84?style=flat-square&logo=1001tracklists&logoColor=FFFFFF&color=3B66BC"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle_Certified_Professional(OCP)-3DDC84?style=flat-square&logo=Oracle&logoColor=FFFFFF&color=F80000"/>&nbsp;
-<img src="https://img.shields.io/badge/2015_STEAM_R&E_Award_by_the_Minister_of_Education-3DDC84?style=flat-square&logo=Archive%20of%20Out%20Own&logoColor=FFFFFF&color=990000"/>&nbsp;
+<!-- </details> --
 
 \* For detailed career information, please refer to the attached resume :)
 
