@@ -25,7 +25,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 ## 🧪Career Summary
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
 
 - Bachelor’s Degree in `📀 Multimedia Engineering` 
   - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
