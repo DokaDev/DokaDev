@@ -120,7 +120,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight&langs_count=20)
 
 ### 🖱️ Operating System
-<img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Mac_OS-3DDC84?style=flat-square&logo=Apple&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/FreeBSD-3DDC84?style=flat-square&logo=FreeBSD&logoColor=FFFFFF&color=AB2B28"/>&nbsp;
 <img src="https://img.shields.io/badge/openSUSE-3DDC84?style=flat-square&logo=openSUSE&logoColor=FFFFFF&color=73BA25"/>&nbsp;
 <img src="https://img.shields.io/badge/Rocky_Linux-3DDC84?style=flat-square&logo=Rocky%20Linux&logoColor=FFFFFF&color=10B981"/>&nbsp;
@@ -144,24 +144,34 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Visual_Studio-3DDC84?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF&color=5C2D91"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-3DDC84?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF&color=007ACC"/>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-3DDC84?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF&color=2C2255"/>&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ-3DDC84?style=flat-square&logo=Intellij%20IDEA&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Rider-3DDC84?style=flat-square&logo=Rider&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/ReSharper-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/DataGrip-3DDC84?style=flat-square&logo=DataGrip&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-3DDC84?style=flat-square&logo=PyCharm&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/WebStorm-3DDC84?style=flat-square&logo=WebStorm&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-3DDC84?style=flat-square&logo=Intellij%20IDEA&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-3DDC84?style=flat-square&logo=Slack&color=4A154B"/>&nbsp;
 <img src="https://img.shields.io/badge/Quip-3DDC84?style=flat-square&logo=Quip&logoColor=FFFFFF&color=F27557"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Logic_Pro-3DDC84?style=flat-square&logo=Apple&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Final_Cut_Pro-3DDC84?style=flat-square&logo=Apple&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Motion-3DDC84?style=flat-square&logo=Apple&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-3DDC84?style=flat-square&logo=Adobe%20Photoshop&logoColor=FFFFFF&color=31A8FF"/>&nbsp;
 <img src="https://img.shields.io/badge/After_Effects-3DDC84?style=flat-square&logo=Adobe%20After%20Effects&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
 <img src="https://img.shields.io/badge/Vim-3DDC84?style=flat-square&logo=Vim&logoColor=FFFFFF&color=019733"/>&nbsp;
 <img src="https://img.shields.io/badge/NeoVim-3DDC84?style=flat-square&logo=NeoVim&logoColor=FFFFFF&color=57A143"/>&nbsp;
+<img src="https://img.shields.io/badge/tmux-3DDC84?style=flat-square&logo=tmux&logoColor=FFFFFF&color=1BB91F"/>&nbsp;
 <img src="https://img.shields.io/badge/ChatGPT-3DDC84?style=flat-square&logo=openai&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/Perplexity-3DDC84?style=flat-square&logo=Perplexity&logoColor=FFFFFF&color=1FB8CD"/>&nbsp;
+<img src="https://img.shields.io/badge/Hugging_Face-3DDC84?style=flat-square&logo=Hugging%20Face&logoColor=FFFFFF&color=FFD21E"/>&nbsp;
 <img src="https://img.shields.io/badge/Ollama-3DDC84?style=flat-square&logo=Ollama&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Claude.ai-3DDC84?style=flat-square&logo=Claude&logoColor=FFFFFF&color=D97757"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Copilot-3DDC84?style=flat-square&logo=GitHub%20Copilot&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Gemini-3DDC84?style=flat-square&logo=Google%20Gemini&logoColor=FFFFFF&color=8E75B2"/>&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-3DDC84?style=flat-square&logo=Wireshark&logoColor=FFFFFF&color=1679A7"/>&nbsp;
+<img src="https://img.shields.io/badge/Asana-3DDC84?style=flat-square&logo=Asana&logoColor=FFFFFF&color=F06A6A"/>&nbsp;
 <img src="https://img.shields.io/badge/Trello-3DDC84?style=flat-square&logo=Trello&logoColor=FFFFFF&color=0052CC"/>&nbsp;
 <img src="https://img.shields.io/badge/Homebrew-3DDC84?style=flat-square&logo=Homebrew&logoColor=000000&color=FBB040"/>&nbsp;
 <img src="https://img.shields.io/badge/FileZilla-3DDC84?style=flat-square&logo=FileZilla&logoColor=FFFFFF&color=BF0000"/>&nbsp;
@@ -169,6 +179,9 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Arduino-3DDC84?style=flat-square&logo=Arduino&logoColor=FFFFFF&color=00878F"/>&nbsp;
 <img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=Figma&logoColor=FFFFFF&color=F24E1E"/>&nbsp;
 <img src="https://img.shields.io/badge/Coveralls-3DDC84?style=flat-square&logo=Coveralls&logoColor=FFFFFF&color=3F5767"/>&nbsp;
+<img src="https://img.shields.io/badge/GNU_Bash-3DDC84?style=flat-square&logo=GNU%20Bash&logoColor=FFFFFF&color=4EAA25"/>&nbsp;
+<img src="https://img.shields.io/badge/fish_shell-3DDC84?style=flat-square&logo=fish%20shell&logoColor=FFFFFF&color=34C534"/>&nbsp;
+<img src="https://img.shields.io/badge/Zsh-3DDC84?style=flat-square&logo=Zsh&logoColor=FFFFFF&color=F15A24"/>&nbsp;
 
 ## ☁️ Cloud
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
