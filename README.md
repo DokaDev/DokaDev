@@ -47,6 +47,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/G++-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Basic-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
+<img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Eclipse%20Adoptium&logoColor=FFFFFF&color=FF1464"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
@@ -61,6 +62,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Next.js-3DDC84?style=flat-square&logo=Next.js&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-3DDC84?style=flat-square&logo=Redux&logoColor=FFFFFF&color=764ABC"/>&nbsp;
+<img src="https://img.shields.io/badge/Actix-3DDC84?style=flat-square&logo=Actix&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Phoenix-3DDC84?style=flat-square&logo=Phoenix%20Framework&logoColor=FFFFFF&color=FD4F00"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=FFFFFF&color=092E20"/>&nbsp;
 <img src="https://img.shields.io/badge/Tensorflow-3DDC84?style=flat-square&logo=Tensorflow&logoColor=FFFFFF&color=FF6F00"/>&nbsp;
