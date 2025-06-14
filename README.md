@@ -48,6 +48,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Basic-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=FFFFFF&color=F05138"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Eclipse%20Adoptium&logoColor=FFFFFF&color=FF1464"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
