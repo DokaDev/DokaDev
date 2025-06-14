@@ -52,6 +52,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=FFFFFF&color=F05138"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Eclipse%20Adoptium&logoColor=FFFFFF&color=FF1464"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3DDC84?style=flat-square&logo=TypeScript&logoColor=FFFFFF&color=3178C6"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS3&color=1572B6"/>&nbsp;
 <img src="https://img.shields.io/badge/Elixir-3DDC84?style=flat-square&logo=Elixir&color=4B275F"/>&nbsp;
