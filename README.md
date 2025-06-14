@@ -48,6 +48,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Basic-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=FFFFFF&color=F05138"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Eclipse%20Adoptium&logoColor=FFFFFF&color=FF1464"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
@@ -74,6 +75,10 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
 <img src="https://img.shields.io/badge/ROS-3DDC84?style=flat-square&logo=ROS&logoColor=FFFFFF&color=22314E"/>&nbsp;
+<img src="https://img.shields.io/badge/SwiftUI-3DDC84?style=flat-square&logo=Swift&logoColor=FFFFFF&color=F05138"/>&nbsp;
+<img src="https://img.shields.io/badge/UIKit-3DDC84?style=flat-square&logo=UIKit&logoColor=FFFFFF&color=2396F3"/>&nbsp;
+<img src="https://img.shields.io/badge/CocoaPods-3DDC84?style=flat-square&logo=CocoaPods&logoColor=FFFFFF&color=EE3322"/>&nbsp;
+<img src="https://img.shields.io/badge/Vapor-3DDC84?style=flat-square&logo=Vapor&logoColor=FFFFFF&color=0D0D0D"/>&nbsp;
 <img src="https://img.shields.io/badge/.NET-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/MyBatis-3DDC84?style=flat-square&logo=MyBatis&logoColor=FFFFFF&color=D7192D"/>&nbsp;
