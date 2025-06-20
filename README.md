@@ -65,6 +65,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Next.js-3DDC84?style=flat-square&logo=Next.js&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-3DDC84?style=flat-square&logo=Redux&logoColor=FFFFFF&color=764ABC"/>&nbsp;
+<img src="https://img.shields.io/badge/Zustand-3DDC84?style=flat-square&logo=Zustand&logoColor=FFFFFF&color=362236"/>&nbsp;
+<img src="https://img.shields.io/badge/Recoil-3DDC84?style=flat-square&logo=Recoil&logoColor=FFFFFF&color=3578E5"/>&nbsp;
 <img src="https://img.shields.io/badge/Actix-3DDC84?style=flat-square&logo=Actix&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Phoenix-3DDC84?style=flat-square&logo=Phoenix%20Framework&logoColor=FFFFFF&color=FD4F00"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-3DDC84?style=flat-square&logo=OpenCV&logoColor=FFFFFF&color=5C3EE8"/>&nbsp;
