@@ -197,6 +197,10 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
+<img src="https://github.com/user-attachments/assets/bd824633-773a-490c-ac63-cb1c130d0cd2" width="60" />
+<img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
+
+
 <!-- <details>
   <summary><b>📊 GitHub Statistics</b></summary>
   <br/> -->
