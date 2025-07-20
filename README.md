@@ -47,6 +47,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/G++-3DDC84?label=GNU&style=flat-square&logo=GNU&logoColor=FFFFFF&color=A42E2B"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=ReSharper&logoColor=FFFFFF&color=239120"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Basic-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
+<img src="https://img.shields.io/badge/Go-3DDC84?style=flat-square&logo=Go&logoColor=FFFFFF&color=00ADD8"/>&nbsp;
 <img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=FFFFFF&color=F05138"/>&nbsp;
@@ -54,7 +55,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=232323&color=F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3DDC84?style=flat-square&logo=TypeScript&logoColor=FFFFFF&color=3178C6"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=FFFFFF&color=E34F26"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS3&color=1572B6"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS&color=1572B6"/>&nbsp;
 <img src="https://img.shields.io/badge/Elixir-3DDC84?style=flat-square&logo=Elixir&color=4B275F"/>&nbsp;
 <img src="https://img.shields.io/badge/Lua-3DDC84?style=flat-square&logo=Lua&color=2C2D72"/>&nbsp;
 <img src="https://img.shields.io/badge/Markdown-3DDC84?style=flat-square&logo=Markdown&color=000000"/>&nbsp;
@@ -63,6 +64,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/jQuery-3DDC84?style=flat-square&logo=jQuery&logoColor=232323&logoColor=FFFFFF&color=0769AD"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-3DDC84?style=flat-square&logo=Next.js&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/SolidJS-3DDC84?style=flat-square&logo=Solid&logoColor=FFFFFF&color=2C4F7C"/>&nbsp;
 <img src="https://img.shields.io/badge/Sass-3DDC84?style=flat-square&logo=Sass&logoColor=FFFFFF&color=CC6699"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-3DDC84?style=flat-square&logo=Redux&logoColor=FFFFFF&color=764ABC"/>&nbsp;
 <img src="https://img.shields.io/badge/Zustand-3DDC84?style=flat-square&logo=Zustand&logoColor=FFFFFF&color=362236"/>&nbsp;
@@ -76,6 +78,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Ultralytics-3DDC84?style=flat-square&logo=Ultralytics&logoColor=FFFFFF&color=221E68"/>&nbsp;
 <img src="https://img.shields.io/badge/Selenium-3DDC84?style=flat-square&logo=Selenium&logoColor=FFFFFF&color=43B02A"/>&nbsp;
 <img src="https://img.shields.io/badge/LangChain-3DDC84?style=flat-square&logo=LangChain&logoColor=FFFFFF&color=1C3C3C"/>&nbsp;
+<img src="https://img.shields.io/badge/Gin-3DDC84?style=flat-square&logo=Gin&logoColor=FFFFFF&color=008ECF"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-3DDC84?style=flat-square&logo=OpenAI&logoColor=FFFFFF&color=412991"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=OpenGL&logoColor=FFFFFF&color=5586A4"/>&nbsp;
 <img src="https://img.shields.io/badge/ROS-3DDC84?style=flat-square&logo=ROS&logoColor=FFFFFF&color=22314E"/>&nbsp;
