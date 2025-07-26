@@ -201,7 +201,10 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
 #### 🪪 Certification & License
+<img src="https://github.com/user-attachments/assets/bd069802-a927-4d80-876b-2f1668791879" width="60" />
 <img src="https://github.com/user-attachments/assets/006ebfcf-b81c-4d76-8120-af7a1281f7f8" width="60" />
+<img src="https://github.com/user-attachments/assets/32c0b432-34ae-471f-9620-703ae038650c" width="60"/>
+
 <br/>
 <img src="https://github.com/user-attachments/assets/bd824633-773a-490c-ac63-cb1c130d0cd2" width="60" />
 <img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
@@ -210,7 +213,6 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/7a11615a-16a0-4ab4-b2f9-e115702b1294" width="60" />
 <br/>
 - Information Processing Qualification
-- OCP
 <!-- <details>
   <summary><b>📊 GitHub Statistics</b></summary>
   <br/> -->
