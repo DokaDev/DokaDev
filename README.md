@@ -200,13 +200,17 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
 
+#### 🪪 Certification & License
+<img src="https://github.com/user-attachments/assets/006ebfcf-b81c-4d76-8120-af7a1281f7f8" width="60" />
+<br/>
 <img src="https://github.com/user-attachments/assets/bd824633-773a-490c-ac63-cb1c130d0cd2" width="60" />
 <img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
 <img src="https://github.com/user-attachments/assets/eb9af27d-70ec-4eea-a771-c6b64646f2ee" width="60" />
 <img src="https://github.com/user-attachments/assets/35db4c20-c436-4a0c-8223-f58f1aac1fe2" width="60" />
 <img src="https://github.com/user-attachments/assets/7a11615a-16a0-4ab4-b2f9-e115702b1294" width="60" />
-
-
+<br/>
+- Information Processing Qualification
+- OCP
 <!-- <details>
   <summary><b>📊 GitHub Statistics</b></summary>
   <br/> -->
