@@ -217,6 +217,11 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/eb9af27d-70ec-4eea-a771-c6b64646f2ee" width="60" />
 <img src="https://github.com/user-attachments/assets/35db4c20-c436-4a0c-8223-f58f1aac1fe2" width="60" />
 <img src="https://github.com/user-attachments/assets/7a11615a-16a0-4ab4-b2f9-e115702b1294" width="60" />
+<img src="https://github.com/user-attachments/assets/b4a0e7c8-ea50-4f15-a888-54a2ce37eb74" width="60"/>
+<img src="https://github.com/user-attachments/assets/d2decfbd-8ebf-4d81-8b02-786596d44212" width="60"/>
+<img src="https://github.com/user-attachments/assets/137ecdca-dae5-49ee-aaab-61f960273209" width="60"/>
+<img src="https://github.com/user-attachments/assets/d7007bf2-cb44-41ca-8e87-44e8d49f695a" width="60"/>
+
 <br/>
 - Information Processing Qualification
 
