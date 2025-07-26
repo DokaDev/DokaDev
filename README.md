@@ -204,6 +204,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
 <img src="https://github.com/user-attachments/assets/eb9af27d-70ec-4eea-a771-c6b64646f2ee" width="60" />
 <img src="https://github.com/user-attachments/assets/35db4c20-c436-4a0c-8223-f58f1aac1fe2" width="60" />
+<img src="https://github.com/user-attachments/assets/7a11615a-16a0-4ab4-b2f9-e115702b1294" width="60" />
+
 
 <!-- <details>
   <summary><b>📊 GitHub Statistics</b></summary>
