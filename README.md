@@ -18,6 +18,8 @@ I'm a **Software Engineer** who explores the core essence of technology. <img sr
 From system-level intricacies to cutting-edge frameworks,<br>
 I strive to innovate, create, and deeply understand the technologies shaping our world.
 
+<a href="https://gist.github.com/DokaDev"> <img width="30" src="https://github.com/user-attachments/assets/3a7a74d2-a462-45f4-8baf-fe409c9a7e9f" /></a>
+
 * 👀 I’m interested in : `UX`
 * 🌱 I’m currently learning `AI` & `DevOps`
 * 💞️ I’m looking to collaborate on `whatever` 😊
