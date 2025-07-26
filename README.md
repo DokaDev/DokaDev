@@ -87,6 +87,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/CocoaPods-3DDC84?style=flat-square&logo=CocoaPods&logoColor=FFFFFF&color=EE3322"/>&nbsp;
 <img src="https://img.shields.io/badge/Vapor-3DDC84?style=flat-square&logo=Vapor&logoColor=FFFFFF&color=0D0D0D"/>&nbsp;
 <img src="https://img.shields.io/badge/.NET-3DDC84?style=flat-square&logo=.NET&logoColor=FFFFFF&color=512BD4"/>&nbsp;
+<img src="https://img.shields.io/badge/Blazor-3DDC84?style=flat-square&logo=Blazor&logoColor=FFFFFF&color=512BD4"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/MyBatis-3DDC84?style=flat-square&logo=MyBatis&logoColor=FFFFFF&color=D7192D"/>&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-3DDC84?style=flat-square&logo=Hibernate&logoColor=FFFFFF&color=59666C"/>&nbsp;
