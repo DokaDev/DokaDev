@@ -199,6 +199,12 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
 <img src="https://img.shields.io/badge/RHEL_Libvirt-3DDC84?style=flat-square&logo=qemu&logoColor=FFFFFF&color=FF6600"/>&nbsp;
+<!-- <details>
+  <summary><b>📊 GitHub Statistics</b></summary>
+  <br/> -->
+  
+![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
+
 
 #### 🪪 Certification & License
 <img src="https://github.com/user-attachments/assets/bd069802-a927-4d80-876b-2f1668791879" width="60" />
@@ -213,14 +219,11 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/7a11615a-16a0-4ab4-b2f9-e115702b1294" width="60" />
 <br/>
 - Information Processing Qualification
-<!-- <details>
-  <summary><b>📊 GitHub Statistics</b></summary>
-  <br/> -->
-  
-![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
 
 <!-- </details> --
 
 \* For detailed career information, please refer to the attached resume :)
 
 </div>
+
+
