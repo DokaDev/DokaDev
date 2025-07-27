@@ -215,6 +215,9 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/32c0b432-34ae-471f-9620-703ae038650c" width="60"/>
 
 <br/>
+<img src="https://github.com/user-attachments/assets/f74fc27d-1561-4809-b5e0-7b5111146654" width="60"/>
+
+<br/>
 <img src="https://github.com/user-attachments/assets/bd824633-773a-490c-ac63-cb1c130d0cd2" width="60" />
 <img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
 <img src="https://github.com/user-attachments/assets/eb9af27d-70ec-4eea-a771-c6b64646f2ee" width="60" />
@@ -224,6 +227,14 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/d2decfbd-8ebf-4d81-8b02-786596d44212" width="60"/>
 <img src="https://github.com/user-attachments/assets/137ecdca-dae5-49ee-aaab-61f960273209" width="60"/>
 <img src="https://github.com/user-attachments/assets/d7007bf2-cb44-41ca-8e87-44e8d49f695a" width="60"/>
+<img src="https://github.com/user-attachments/assets/c14353ab-5ada-4a02-b178-c910cc8c2ac5" width="60"/>
+<img src="https://github.com/user-attachments/assets/5d27b4ae-6cf7-4427-b684-07a793ca7456" width="60"/>
+<img src="https://github.com/user-attachments/assets/2a64fa9a-20d7-4322-9871-83e1fa2d92f4" width="60"/>
+<img src="https://github.com/user-attachments/assets/9e4be284-896d-4390-8ff6-3e33d191249a" width="60"/>
+<img src="https://github.com/user-attachments/assets/836986e0-6e93-4fb9-bdba-a58a6f34f1bf" width="60"/>
+<img src="https://github.com/user-attachments/assets/0ec75557-48ef-4642-a9b4-221a4a3be63f" width="60"/>
+<img src="https://github.com/user-attachments/assets/45e8de17-97be-4176-8ee2-93f62bbb4812" width="60"/>
+
 
 <br/>
 - Information Processing Qualification
