@@ -96,6 +96,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/GSON-3DDC84?style=flat-square&logo=Json&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Express.js-3DDC84?style=flat-square&logo=Express&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/NestJS-3DDC84?style=flat-square&logo=NestJS&logoColor=FFFFFF&color=E0234E"/>&nbsp;
+<img src="https://img.shields.io/badge/Prisma-3DDC84?style=flat-square&logo=Prisma&logoColor=FFFFFF&color=2D3748"/>&nbsp;
 <img src="https://img.shields.io/badge/Discord.js-3DDC84?style=flat-square&logo=Discord&logoColor=FFFFFF&color=5865F2"/>&nbsp;
 <img src="https://img.shields.io/badge/Nodemon-3DDC84?style=flat-square&logo=Nodemon&logoColor=FFFFFF&color=76D04B"/>&nbsp;
 <img src="https://img.shields.io/badge/Vite-3DDC84?style=flat-square&logo=Vite&logoColor=FFFFFF&color=646CFF"/>&nbsp;
@@ -108,6 +109,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Pytest-3DDC84?style=flat-square&logo=Pytest&logoColor=FFFFFF&color=0A9EDC"/>&nbsp;
 
 ### 📚 Database
+<img src="https://img.shields.io/badge/PostgreSQL-3DDC84?style=flat-square&logo=PostgreSQL&logoColor=FFFFFF&color=4169E1"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache_CouchDB-3DDC84?style=flat-square&logo=Apache%20CouchDB&logoColor=FFFFFF&color=E42528"/>&nbsp;
