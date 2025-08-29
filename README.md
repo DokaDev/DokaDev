@@ -97,6 +97,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://img.shields.io/badge/Express.js-3DDC84?style=flat-square&logo=Express&logoColor=FFFFFF&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/NestJS-3DDC84?style=flat-square&logo=NestJS&logoColor=FFFFFF&color=E0234E"/>&nbsp;
 <img src="https://img.shields.io/badge/Prisma-3DDC84?style=flat-square&logo=Prisma&logoColor=FFFFFF&color=2D3748"/>&nbsp;
+<img src="https://img.shields.io/badge/Sequelize-3DDC84?style=flat-square&logo=sequelize&logoColor=FFFFFF&color=52B0E7"/>&nbsp;
 <img src="https://img.shields.io/badge/Discord.js-3DDC84?style=flat-square&logo=Discord&logoColor=FFFFFF&color=5865F2"/>&nbsp;
 <img src="https://img.shields.io/badge/Nodemon-3DDC84?style=flat-square&logo=Nodemon&logoColor=FFFFFF&color=76D04B"/>&nbsp;
 <img src="https://img.shields.io/badge/Vite-3DDC84?style=flat-square&logo=Vite&logoColor=FFFFFF&color=646CFF"/>&nbsp;
