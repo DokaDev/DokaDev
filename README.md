@@ -2,7 +2,7 @@
 
 # ✨DOKADEV✨ 
 
-<img src="https://img.shields.io/badge/doka@dokalab.uk-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://dokadev.github.io" target="_blank"><img src="https://img.shields.io/badge/https://dokadev.github.io-3DDC84?label=BLOG&style=flat-square&logo=GitHubPages&logoColor=WHITE&color=222222"/>
+<img src="https://img.shields.io/badge/dokadev@yahoo.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://dokadev.github.io" target="_blank"><img src="https://img.shields.io/badge/https://dokadev.github.io-3DDC84?label=BLOG&style=flat-square&logo=GitHubPages&logoColor=WHITE&color=222222"/>
 
 <img align='right' src='https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time!+%F0%9F%92%BB;%F0%9F%94%A7+Turning+Ideas+into+Reality+with+Code+%E2%9C%8D%F0%9F%8F%BB;%F0%9F%A5%83+Developer+by+Day%2C+Whiskey+Lover+by+Night+%F0%9F%8C%99;%F0%9F%96%A5%EF%B8%8F+Beyond+Frameworks%3A+Mastering+the+Core+%F0%9F%9B%A1%EF%B8%8F' width=30/>
 
