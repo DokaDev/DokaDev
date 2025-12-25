@@ -44,7 +44,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 ## 📱Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight&langs_count=20)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight&langs_count=20)
 
 ## ☁️ Cloud
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
@@ -54,7 +54,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
   <summary><b>📊 GitHub Statistics</b></summary>
   <br/> -->
   
-![Awesome's GitHub stats](https://github-readme-stats.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
+![Awesome's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DokaDev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&rank_icon=github)
 
 
 #### 🪪 Certification & License
