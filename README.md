@@ -32,7 +32,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 - Bachelor’s Degree in `📀 Multimedia Engineering` 
   - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
 - Working as a System Software Engineer and Web Developer
-- Contributing to [Dracula Theme](https://draculatheme.com/) projects and Maintainer of [Google Search Theme](https://draculatheme.com/google-search)
+- [Dracula Theme](https://draculatheme.com/) - Contributor & Maintainer
 
 <!-- <div align="left">
   <picture>
