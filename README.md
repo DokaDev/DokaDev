@@ -30,7 +30,7 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
 
 - Bachelor’s Degree in `📀 Multimedia Engineering` 
-  - GPA: 4.06 / 4.5(Graduated with Honors, Department Valedictorian)
+  - GPA: 4.06 / 4.5 - Department Valedictorian
 - Working as a System Software Engineer and Web Developer
 - [Dracula Theme](https://draculatheme.com/) - Contributor & Maintainer
 
@@ -58,14 +58,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 
 #### 🪪 Certification & License
-<img src="https://github.com/user-attachments/assets/bd069802-a927-4d80-876b-2f1668791879" width="60" />
-<img src="https://github.com/user-attachments/assets/006ebfcf-b81c-4d76-8120-af7a1281f7f8" width="60" />
-<img src="https://github.com/user-attachments/assets/32c0b432-34ae-471f-9620-703ae038650c" width="60"/>
-
-<br/>
+<!-- <img src="https://github.com/user-attachments/assets/bd069802-a927-4d80-876b-2f1668791879" width="60" /> -->
 <img src="https://github.com/user-attachments/assets/f74fc27d-1561-4809-b5e0-7b5111146654" width="60"/>
-
-<br/>
 <img src="https://github.com/user-attachments/assets/bd824633-773a-490c-ac63-cb1c130d0cd2" width="60" />
 <img src="https://github.com/user-attachments/assets/ab413bbc-f0ad-4c43-987f-e7013596e690" width="60" />
 <img src="https://github.com/user-attachments/assets/eb9af27d-70ec-4eea-a771-c6b64646f2ee" width="60" />
@@ -83,7 +77,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 <img src="https://github.com/user-attachments/assets/0ec75557-48ef-4642-a9b4-221a4a3be63f" width="60"/>
 <img src="https://github.com/user-attachments/assets/45e8de17-97be-4176-8ee2-93f62bbb4812" width="60"/>
 <img src="https://github.com/user-attachments/assets/1914b462-3215-4410-9b56-6cf8ff848ea6" width="60"/>
-
+<img src="https://github.com/user-attachments/assets/006ebfcf-b81c-4d76-8120-af7a1281f7f8" width="60" />
+<img src="https://github.com/user-attachments/assets/32c0b432-34ae-471f-9620-703ae038650c" width="60"/>
 
 <br/>
 - Information Processing Qualification
