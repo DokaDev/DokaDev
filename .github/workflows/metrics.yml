@@ -1,6 +1,7 @@
 name: Metrics
 on:
   workflow_dispatch:    # 수동 실행
+  push: {branches: ["master", "main"]}
   schedule:
     - cron: "0 17 * * *"  # 한국시간 새벽 2시
 jobs:
