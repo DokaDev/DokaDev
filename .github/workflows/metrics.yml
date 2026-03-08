@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_lines: yes
+          base: repositories
+          plugin_traffic: yes
