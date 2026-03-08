@@ -12,6 +12,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.classic.svg
+          filename: metrics.plugin.traffic.svg
           base: header, activity, community, repositories
-          plugin_lines: yes
+          plugin_traffic: yes
