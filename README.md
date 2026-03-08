@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
 <img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;<img src="https://i.pinimg.com/originals/31/65/06/31650631b14710d75ab00a32fc5dca15.gif" width="30"/>
 
+![Metrics](https://github.com/DokaDev/DokaDev/blob/main/metrics.classic.svg)
+
 I'm a **Software Engineer** who explores the core essence of technology. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![GitHub Followers](https://img.shields.io/github/followers/dokadev?label=Follow&style=social)](https://github.com/dokadev?tab=followers)
