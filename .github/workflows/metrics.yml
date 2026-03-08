@@ -10,10 +10,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Repositories traffic
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.traffic.svg
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
+          base: header, repositories
+          plugin_lines: yes
