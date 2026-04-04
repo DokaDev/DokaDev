@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 17 * * *"  # 한국시간 새벽 2시
 jobs:
-  github-metrics:
+  traffic:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,6 +16,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_traffic: yes
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
