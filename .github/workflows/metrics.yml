@@ -26,6 +26,8 @@ jobs:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
