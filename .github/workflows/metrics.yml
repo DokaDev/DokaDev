@@ -35,3 +35,4 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
+          commits_authoring: DokaDev, Awesome, awesome_devnet@outlook.com
