@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories_affiliations: owner, collaborator, organization_member
-          repositories_forks: no
+          repositories_forks: yes
           repositories_batch: 25
           repositories: 200
           plugin_languages: yes
