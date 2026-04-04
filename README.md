@@ -48,6 +48,8 @@ I strive to innovate, create, and deeply understand the technologies shaping our
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DokaDev\&layout=compact&hide_border=true&theme=tokyonight&langs_count=20)
 
+![Languages](https://raw.githubusercontent.com/DokaDev/DokaDev/main/metrics.plugin.languages.svg)
+
 ## ☁️ Cloud
 <img src="https://img.shields.io/badge/Naver_Cloud_Platform-3DDC84?style=flat-square&logo=Naver&logoColor=FFFFFF&color=03C75A"/>&nbsp;
 <img src="https://img.shields.io/badge/Amazon_Web_Services-3DDC84?style=flat-square&logo=Amazon%20Web%20Services&logoColor=FFFFFF&color=232F3E"/>&nbsp;
