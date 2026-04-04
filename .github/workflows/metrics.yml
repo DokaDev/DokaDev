@@ -28,7 +28,7 @@ jobs:
           base: ""
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
-          repositories_batch: 25
+          repositories_batch: 50
           repositories: 200
           plugin_languages: yes
           plugin_languages_indepth: yes
